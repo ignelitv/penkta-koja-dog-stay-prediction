@@ -10,4 +10,4 @@ This project predicts the stay duration of dogs at the "Penkta Koja" animal shel
 ## How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/igne.litv/penkta-koja-dog-stay-prediction.git
+   git clone https://github.com/ignelitv/penkta-koja-dog-stay-prediction.git
